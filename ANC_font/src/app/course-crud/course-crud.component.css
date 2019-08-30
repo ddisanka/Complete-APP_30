@@ -1,0 +1,83 @@
+#addbtn
+{
+    margin-top: 30px;
+    float: right;
+    background-color: rgb(42, 177, 9);
+}
+.table{
+    background-color:#2F4F4F;
+    opacity: 0.9;
+}
+.tabledata
+{
+    color: aliceblue;
+
+}
+.head
+{
+    color: #FFD700;
+    margin-left: 20px;
+    text-align: center;
+}
+#edit
+{
+    background-color: rgba(30, 111, 218, 0.918);
+}
+#delete
+{
+    background-color: rgba(245, 8, 8, 0.918);
+}
+.text{
+
+    color: darkgoldenrod;
+}
+.modal.fade .modal-header {
+    height: 90px;
+    background-color: #FFD700;
+    color:black;
+    font-size: 15px;
+    
+  }
+  .modal-title
+  {
+      font-size: 22px;
+  }
+  .modal-content
+  {
+      background-color: #2D3142;
+      opacity: 0.9;
+  }
+  .modal-footer
+  {
+      background-color:#c47714;
+  }
+  .modal.body{
+    background-color: crimson;
+}
+.close
+{
+    color: rgb(0, 0, 0);
+    float: right;
+}
+.text{
+    font-size: 25px;
+    margin-top: 30px;
+    float: left;
+    color: #FFD700;
+    font-weight:lighter;
+}
+.modal-primary{
+  text-align: center;
+  float: left;
+  font-size: 22px;
+  font-weight: bold;
+  margin-right: 50px;
+}
+.addstudent
+{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}

@@ -1,0 +1,14 @@
+.heading{
+    margin-top: 20px;
+    font-size: 60px;
+    font-weight: bolder;
+    color: gold;
+}
+.para{
+    margin-top: 50px;
+    font-size: 30px;
+    color: antiquewhite;
+}
+.btn-danger{
+    margin: 10px;
+}

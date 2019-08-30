@@ -1,0 +1,15 @@
+.btn-danger{
+    margin: 5px;
+    background-color: rgb(3, 3, 3);
+    
+}
+.my-2{
+    float: right;
+}
+.container{
+    margin-left: 800px;
+}
+.navbar-brand
+{
+    font-size: 13px;
+}

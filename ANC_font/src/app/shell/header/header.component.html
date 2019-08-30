@@ -1,0 +1,19 @@
+<header>
+    <div class="navbar navbar-dark bg-dark box-shadow">
+        <div class="container">
+            <a routerLink="/" class="navbar-brand ">
+                
+            </a>
+            <nav *ngIf="!isAuthenticated" class="my-2 my-md-0 mr-md-3">
+                <a class="btn btn-warning" routerLink="/register" role="button">Signup <span class="glyphicon glyphicon-user"></span></a>
+
+                <a class="btn btn-success ml-4" routerLink="/login" role="button">Login <span class="glyphicon glyphicon-log-in"></span></a>
+
+            </nav>
+            <nav *ngIf="isAuthenticated" class="my-2 my-md-0 mr-md-3">
+                <!-- <a class="btn btn-danger " routerLink="/topsecret" role="button">Top Secret Area &raquo;</a> -->
+                <a class="btn btn-danger" (click)="signout()" href="#"> Logged in as : {{name}} Signout <span class="glyphicon glyphicon-off"></span></a>
+            </nav>
+        </div>
+    </div>
+</header>

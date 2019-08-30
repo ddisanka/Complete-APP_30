@@ -1,0 +1,42 @@
+C:\Users\ddisanka\Desktop\ANC\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.deps.json
+C:\Users\ddisanka\Desktop\ANC\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.runtimeconfig.json
+C:\Users\ddisanka\Desktop\ANC\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.runtimeconfig.dev.json
+C:\Users\ddisanka\Desktop\ANC\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.dll
+C:\Users\ddisanka\Desktop\ANC\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.pdb
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.csprojAssemblyReference.cache
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.csproj.CoreCompileInputs.cache
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorAssemblyInfo.cs
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.AssemblyInfoInputs.cache
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.AssemblyInfo.cs
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorTargetAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.dll
+C:\Users\ddisanka\Desktop\ANC\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.pdb
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.deps.json
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.runtimeconfig.json
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.runtimeconfig.dev.json
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.dll
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.pdb
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.csprojAssemblyReference.cache
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.csproj.CoreCompileInputs.cache
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorAssemblyInfo.cs
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.AssemblyInfoInputs.cache
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.AssemblyInfo.cs
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorTargetAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.dll
+C:\Users\ddisanka\Desktop\ANC\New folder (2)\ANC_API\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.pdb
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.deps.json
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.runtimeconfig.json
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.runtimeconfig.dev.json
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.dll
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\bin\Debug\netcoreapp2.1\ANC_API.pdb
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.csprojAssemblyReference.cache
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.csproj.CoreCompileInputs.cache
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorAssemblyInfo.cs
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.AssemblyInfoInputs.cache
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.AssemblyInfo.cs
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.RazorTargetAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.dll
+C:\Users\ddisanka\Desktop\auth&authorization\ANC_API\obj\Debug\netcoreapp2.1\ANC_API.pdb
